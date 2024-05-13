@@ -9,4 +9,4 @@ Autores:
 Para ejecutar el programa:  
 Tener instalado Python 3.10.4.  
 Tener instalado Jupyter Notebook.  
-Abrir tarea1.ipynb y ejecutar celdas en orden. 
+Abrir tarea2.ipynb y ejecutar celdas en orden. 
